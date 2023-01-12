@@ -1,0 +1,54 @@
+body
+{
+     background: linear-gradient(rgb(255, 242, 129) 0%, rgb(154, 247, 179) 100%);
+}
+
+h1
+{
+    font-family: cursive;
+    font-size: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color: red;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border: 1px solid rgb(102, 0, 255)
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+.colum
+{
+    display: inline;
+    padding: 10px;
+}
+
+img.hover
+{
+    border-radius: 140px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+
+}
